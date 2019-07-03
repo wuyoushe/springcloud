@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaserver" />
-        <module name="productdataservice" />
         <module name="eurekaServer" />
+        <module name="product-data-service" />
+        <module name="productdataservice" />
+        <module name="productviewservicefeign" />
+        <module name="productviewserviceribbon" />
       </profile>
     </annotationProcessing>
   </component>
